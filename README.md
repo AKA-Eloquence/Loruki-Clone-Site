@@ -1,3 +1,3 @@
-https://aka-eloquence.github.io/Loruki-Clone-Site/
+https://eloquence98.github.io/Loruki-Clone-Site/
 # Loruki-Clone-Site
 fake Cloud hosting site
